@@ -1,5 +1,3 @@
-# Customer-Satisfaction-Analysis-Unsupervised-Learning
-
 # Customer Satisfaction Analysis (Unsupervised Learning)
 
 Este projeto utiliza técnicas de aprendizado não supervisionado para analisar a satisfação de clientes de companhias aéreas. O objetivo é identificar padrões e segmentar clientes com base em características que influenciam a satisfação.
